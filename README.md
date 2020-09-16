@@ -1,5 +1,5 @@
 ### Matplotlib_Challenge
-Using pandas and matplotlib to graph data.
+Using pandas and matplotlib to analyze and graph data from existing CSV files.
 
 # Analysis from Data
 1. The average tumor volume for Capomulin is 40.68 mm<sup>3</sup>, but that is not the smallest average tumor volume. Ramicane has the smallest tumor volume, at 40.22 mm<sup>3</sup>.
